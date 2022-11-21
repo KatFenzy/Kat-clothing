@@ -1,4 +1,10 @@
 # qb-clothing
+INSTALLATION!
+-DRAG AND DROP TO YOUR SERVER FOLDER.
+-RENAME IT TO qb-phone
+-AND THEN START YOUR SERVER
+
+
 Clothing for QB-Core Framework :dress:
 
 # License
