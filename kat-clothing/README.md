@@ -1,8 +1,8 @@
 # qb-clothing
-INSTALLATION!
--DRAG AND DROP TO YOUR SERVER FOLDER.
--RENAME IT TO qb-phone
--AND THEN START YOUR SERVER
+INSTALLATION!:snowman:
+- DRAG AND DROP TO YOUR SERVER FOLDER.:snowflake:
+- RENAME IT TO qb-clothing:snowflake:
+- AND THEN START YOUR SERVER:snowflake:
 
 
 Clothing for QB-Core Framework :dress:
